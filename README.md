@@ -14,5 +14,5 @@
 | 9         | Agitato 3.0         | [7.03] **Eternal** | Endurance, Pace                                     |
 | 10        | Cubic Showdown      | [7.00] **Eternal** | Dynamic, Pace, Endurance, Dexterity, Client Objects |
 | 11        | Rooms 2             | [6.96] **Divine**  | Pace, Endurance, ??                                 |
-| 12        | Eternal Punishment  | [7.00] **Divine**  | Pace, Dynamic, Dexterity, Client Objects            |
-| 13        | Derelict Industry   | [7.00] **Divine**  | Pace, Dynamic, Dexterity, Client Objects            |
+| 12        | Eternal Punishment  | [6.92] **Divine**  | Pace, Dynamic, Dexterity, Client Objects            |
+| 13        | Derelict Industry   | [6.90] **Divine**  | Pace, Dynamic, Dexterity, Client Objects            |
