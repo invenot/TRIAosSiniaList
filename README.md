@@ -1,5 +1,6 @@
 # Sinia TRIA.os List
 ## Everything is subject to change.
+<center>
 
 | Placement | Map Name            | Difficulty     | Difficulty Indicators                               |
 | --------- | ------------------- |:--------------:| --------------------------------------------------- |
@@ -19,3 +20,5 @@
 | 14        | Backburner          | ![Divine Icon](https://cdn.discordapp.com/attachments/1327548822280474674/1327686811291746448/oKC6QjC.png?ex=6783f833&is=6782a6b3&hm=502b5ab4863e5109198fdfb52f2d7861343af167124b061678374aea8a45aec4&)[6.86] **Divine**  | ???                                                 |
 | 15        | Ruined Heavenscape  | ![Divine Icon](https://cdn.discordapp.com/attachments/1327548822280474674/1327686811291746448/oKC6QjC.png?ex=6783f833&is=6782a6b3&hm=502b5ab4863e5109198fdfb52f2d7861343af167124b061678374aea8a45aec4&)[6.85] **Divine**  | Pace, Dynamic, Dexterity                            |
 | 16        | LAYERS              | ![Divine Icon](https://cdn.discordapp.com/attachments/1327548822280474674/1327686811291746448/oKC6QjC.png?ex=6783f833&is=6782a6b3&hm=502b5ab4863e5109198fdfb52f2d7861343af167124b061678374aea8a45aec4&)[6.82] **Divine**  | Pace, Dynamic, Client Objects                       |
+
+</center>
