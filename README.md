@@ -23,4 +23,10 @@
 | 17        | Virus              | ![Divine Icon](https://cdn.discordapp.com/attachments/1327548822280474674/1327686811291746448/oKC6QjC.png?ex=6783f833&is=6782a6b3&hm=502b5ab4863e5109198fdfb52f2d7861343af167124b061678374aea8a45aec4&)  $\color{deeppink}\large{\textbf{[6.78] Divine}}$  | ???                                                 |
 | 18        | Brick Yellow              | ![Divine Icon](https://cdn.discordapp.com/attachments/1327548822280474674/1327686811291746448/oKC6QjC.png?ex=6783f833&is=6782a6b3&hm=502b5ab4863e5109198fdfb52f2d7861343af167124b061678374aea8a45aec4&)  $\color{deeppink}\large{\textbf{[6.77] Divine}}$  | ???                                                 |
 | 19        | Kneeling Shore              | ![Divine Icon](https://cdn.discordapp.com/attachments/1327548822280474674/1327686811291746448/oKC6QjC.png?ex=6783f833&is=6782a6b3&hm=502b5ab4863e5109198fdfb52f2d7861343af167124b061678374aea8a45aec4&)  $\color{deeppink}\large{\textbf{[6.76] Divine}}$  | ???                                                 |
+| 20 | Eternal Punishment | [6.--] Divine | |
+| 21 | Tempestuous Blizzard | [6.--] Divine | |
+| 22 | Vivid | [6.--] Divine | |
+| 23 | Halcyon 2.0 | [6.--] Divine | |
+| 24 | Yatagarasu | [6.--] Divine | |
+| 25 | Dystopia v4 | [6.--] Divine | |
 </center>
