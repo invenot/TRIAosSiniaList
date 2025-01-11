@@ -2,7 +2,7 @@
 ## Everything is subject to change.
 
 | Placement | Map Name            | Difficulty     | Difficulty Indicators                               |
-| --------- | ------------------- | -------------- | --------------------------------------------------- |
+| --------- | ------------------- |:--------------:| --------------------------------------------------- |
 | 1         | The Sin             | ![Eternal Icon](https://cdn.discordapp.com/attachments/1327436582780796971/1327687167111073793/MGu3KXF.png?ex=6783f887&is=6782a707&hm=4b9641e197457cfd215f7367b9d1c8c9079ec2eef41089c6a920df5fc48ebbd9&) [7.??] **Eternal** | Raw, Jank, Endurance, Luck                          |
 | 2         | Death Corridor      | ![Eternal Icon](https://cdn.discordapp.com/attachments/1327436582780796971/1327687167111073793/MGu3KXF.png?ex=6783f887&is=6782a707&hm=4b9641e197457cfd215f7367b9d1c8c9079ec2eef41089c6a920df5fc48ebbd9&)  [7.??] **Eternal** | Pace, Raw, Endurance                                |
 | 3         | Ascension to Heaven | ![Eternal Icon](https://cdn.discordapp.com/attachments/1327436582780796971/1327687167111073793/MGu3KXF.png?ex=6783f887&is=6782a707&hm=4b9641e197457cfd215f7367b9d1c8c9079ec2eef41089c6a920df5fc48ebbd9&)  [7.38] **Eternal** | Endurance, Pace, Dexterity, Dynamic                 |
